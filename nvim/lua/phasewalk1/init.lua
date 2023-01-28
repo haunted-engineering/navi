@@ -1,0 +1,8 @@
+require("phasewalk1.set")
+require("phasewalk1.packer")
+require("phasewalk1.remap")
+require("phasewalk1.coc")
+require("phasewalk1.tree")
+require("phasewalk1.rust")
+require("phasewalk1.lualine")
+require("phasewalk1.transp")
