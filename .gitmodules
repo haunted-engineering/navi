@@ -4,3 +4,6 @@
 [submodule "nvim"]
 	path = nvim
 	url = https://github.com/phasewalk1/nvim-cfg
+[submodule "awesome"]
+	path = awesome
+	url = https://github.com/phasewalk1/awesome-cfg
