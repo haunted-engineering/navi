@@ -3,7 +3,10 @@
 	url = https://github.com/phasewalk1/nvim-cfg
 [submodule "fish"]
 	path = fish
-	url = https://github.com/phasewalk1/fish
+	url = https://github.com/phasewalk1/fishcfg
 [submodule "awesome"]
 	path = awesome
-	url = https://github.com/phasewalk/awesome-cfg
+	url = https://github.com/phasewalk1/awesome-cfg
+[submodule "st"]
+	path = st
+	url = https://github.com/phasewalk1/st-build
