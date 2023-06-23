@@ -7,3 +7,6 @@
 [submodule "st"]
 	path = st
 	url = https://github.com/phasewalk1/st-build
+[submodule "awesome"]
+    path = awesome
+    url = https://github.com/phasewalk1/awesome-cfg
