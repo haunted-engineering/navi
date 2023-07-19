@@ -1,9 +1,11 @@
 [submodule "neovim"]
 	path = neovim
 	url = https://github.com/phasewalk1/presentday
+    branch = master
 [submodule "fish"]
 	path = fish
 	url = https://github.com/phasewalk1/fishcfg
+    branch = master
 [submodule "awesome"]
 	path = awesome
     branch = master
