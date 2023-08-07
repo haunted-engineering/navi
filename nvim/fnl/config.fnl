@@ -11,8 +11,7 @@
 ;; numbers in effect. If set to nonumber, line numbers are disabled. For 
 ;; relative line numbers, set 'relativenumber`
 
-(set! number)
-(set! relativenumber)
+(set! nonumber)
 
 ;; The let option sets global, or `vim.g` options. 
 ;; Heres an example with localleader, setting it to <space>m

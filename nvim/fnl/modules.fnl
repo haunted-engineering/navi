@@ -30,17 +30,17 @@
         fold                 ; (nigh) universal code folding
         (format +onsave)     ; automated prettiness
         ;;multiple-cursors   ; learn macros you dingus
-        parinfer             ; turn lisp into python, sort of
+        ;;parinfer             ; turn lisp into python, sort of
         (hotpot +reflect)    ; lets get cooking. NOTE: essential module (for now), don't disable
         scratch              ; emacs-like scratch buffer functionality
-        ;;word-wrap            ; language-aware smart soft and hard wrapping
+        word-wrap            ; language-aware smart soft and hard wrapping
 
         :term
         ;;fshell             ; WIP: the fennel shell that works everywhere
         toggleterm           ; persistant/floating terminal wrapper for :term
 
         :checkers
-        diagnostics          ; tasing you for every semicolon you forget
+        ;;diagnostics          ; tasing you for every semicolon you forget
         grammar              ; tasing grammar mistake every you make
         ;;spell              ; tasing you for misspelling mispelling
 
@@ -85,8 +85,8 @@
         rust                 ; Fe2O3.unwrap().unwrap().unwrap().unwrap()
         (sh +fish)           ; she sells {ba,z,fi}sh shells on the C xor
         ;;xml                ; extend my language
-        ;;yaml               ; yet another markup language to enable
-        zig                  ; C, but simpler
+        yaml               ; yet another markup language to enable
+        ;;zig                  ; C, but simpler
 
         :app
         ;;calendar           ; Watch your missed deadlines in real time
